@@ -33,7 +33,7 @@ And *then* it is time to look at orchestration!
 
 - Do it ourselves
 
-  (price: $-$$$, dificulty: hard)
+  (price: $-$$$, difficulty: hard)
 
 ---
 
